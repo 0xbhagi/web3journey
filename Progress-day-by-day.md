@@ -1,4 +1,4 @@
-# [Day 12]()
+# [Day 12](https://youtu.be/iPjf1Vp1too)
 ## Watching [ZKP MOOC Lecture 13](https://youtube.com/playlist?list=PLS01nW3Rtgor9mqIK8fqtEwqxg_aP2lr2)
 ### 1. [ZKP Applications](https://www.youtube.com/watch?v=tbEsv2afhko)
   - ZKCNN https://eprint.iacr.org/2021/673.pdf
