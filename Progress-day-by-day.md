@@ -1,3 +1,9 @@
+# [Day 13](https://youtu.be/aGee3LdEtbE)
+## Writing dune query for rake token scam [Link](https://dune.com/bhagirathnath18/all-time-fee-collected-by-rake-token)
+### Rake Token Hidden Fee [Bot](https://explorer.forta.network/bot/0x601412378e2cea526d390f3e0a275f6b0e4bb2e549aedb2a577158d323b36842) 
+## Sarcophagus network wide analytics [Link](https://dune.com/bhagirathnath18/sarcophagus-network-wide-analytics)
+
+
 # [Day 12](https://youtu.be/iPjf1Vp1too)
 ## Watching [ZKP MOOC Lecture 13](https://youtube.com/playlist?list=PLS01nW3Rtgor9mqIK8fqtEwqxg_aP2lr2)
 ### 1. [ZKP Applications](https://www.youtube.com/watch?v=tbEsv2afhko)
