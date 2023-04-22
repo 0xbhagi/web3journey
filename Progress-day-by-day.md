@@ -1,3 +1,8 @@
+# [Day 15](https://youtu.be/UUgNIY9bQys)
+- **Reading weekinethereum**[Link](https://weekinethereum.substack.com/p/week-in-ethereum-news-april-22-2023) 
+
+
+
 # [Day 14](https://youtu.be/I3n7t_qhgyc)
 - **Doing Bounty RPCh Prototype Project And Documentation Review** [Link](https://bounties.gitcoin.co/issue/29839)
 
