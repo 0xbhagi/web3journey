@@ -1,3 +1,8 @@
+# [Day 16](https://youtu.be/bJH3uwXIY8I)
+- **Learning about Polygon zkEVM** [Link](https://zkevm.polygon.technology/introduction)
+
+
+
 # [Day 15](https://youtu.be/UUgNIY9bQys)
 - **Reading weekinethereum** [Link](https://weekinethereum.substack.com/p/week-in-ethereum-news-april-22-2023) 
 
