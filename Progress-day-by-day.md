@@ -1,3 +1,8 @@
+[Day 17]
+- **How Data Is Stored In Ethereum?** [Link](https://medium.com/hackernoon/getting-deep-into-ethereum-how-data-is-stored-in-ethereum-e3f669d96033)
+
+
+
 # [Day 16](https://youtu.be/bJH3uwXIY8I)
 - **Learning about Polygon zkEVM** [Link](https://zkevm.polygon.technology/introduction)
 
