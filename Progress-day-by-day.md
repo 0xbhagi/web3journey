@@ -10,8 +10,7 @@
 - **Dune analytics Network-wide Cursed bond Bounty**[Link](https://github.com/0xbhagi/CursedBonds)
 - **Dashboard Sarcophagus network wide analytics**[Link](https://dune.com/bhagirathnath18/sarcophagus-network-wide-analytics)
 - **Query CursedBonds**[Link](https://dune.com/queries/2411600/3958259)
-- ****[Link]()
-- ****[Link]()
+
 
 # [Day 17]
 - **How Data Is Stored In Ethereum?** [Link](https://medium.com/hackernoon/getting-deep-into-ethereum-how-data-is-stored-in-ethereum-e3f669d96033)
