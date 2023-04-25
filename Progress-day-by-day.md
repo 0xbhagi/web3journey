@@ -1,4 +1,19 @@
-[Day 17]
+# [Day 18]
+# Reading
+- **Solidity layout and access of storage state variables simply explained** [Link](https://coinsbench.com/solidity-layout-and-access-of-storage-variables-simply-explained-1ce964d7c738)
+- **Layout of State Variables in Storage**[Link](https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html)
+- **Good idea, bad design: How the Diamond standard falls short**[Link](https://blog.trailofbits.com/2020/10/30/good-idea-bad-design-how-the-diamond-standard-falls-short/)
+- **Addressing Josselin Feist's Concern's of EIP-2535 Diamonds**[Link](https://dev.to/mudgen/addressing-josselin-feist-s-concern-s-of-eip-2535-diamond-standard-me8
+)
+# Work
+- **Hopr's RPCh Prototype Project And Documentation Review Bounty**[Link](https://github.com/hoprnet/hopr-bounty-submission/pull/6)
+- **Dune analytics Network-wide Cursed bond Bounty**[Link](https://github.com/0xbhagi/CursedBonds)
+- **Dashboard Sarcophagus network wide analytics**[Link](https://dune.com/bhagirathnath18/sarcophagus-network-wide-analytics)
+- **Query CursedBonds**[Link](https://dune.com/queries/2411600/3958259)
+- ****[Link]()
+- ****[Link]()
+
+# [Day 17]
 - **How Data Is Stored In Ethereum?** [Link](https://medium.com/hackernoon/getting-deep-into-ethereum-how-data-is-stored-in-ethereum-e3f669d96033)
 
 
