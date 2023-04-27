@@ -1,3 +1,9 @@
+# Day 19 (27-04-2023)
+# Reading
+- **ChatGPT Prompt Engineering for Developers**[Link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+
+
+
 # [Day 18]
 # Reading
 - **Solidity layout and access of storage state variables simply explained** [Link](https://coinsbench.com/solidity-layout-and-access-of-storage-variables-simply-explained-1ce964d7c738)
